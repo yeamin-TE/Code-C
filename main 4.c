@@ -1,3 +1,8 @@
+//comment and multiple input/output
+
+/*multiline comment*/
+//single line comment
+
 #include<stdio.h>
 int main()
 {
